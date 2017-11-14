@@ -130,3 +130,42 @@ p {
   margin-left: -15px;
   font-size: 1.5em;
 }
+
+.footer {
+  width: 100%;
+  text-align: center;
+  min-height: 30px;
+  padding: 20px 0 40px 20px;
+}
+
+.footer .copyright {
+  top: -8px;
+  margin-right: 20px;
+  font-size: .75em;
+}
+
+.footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer ul li {
+  display: inline-block;
+}
+.footer ul li a:hover{
+  color:#488DD8 !important;
+}
+.footer ul li a{
+  color: #363636 !important;
+  
+}
+.fa{
+  font-size: 34px !important;
+  font-weight: bolder !important;
+
+}
+.fa-file-text{
+  font-size: 30px !important;
+
+}
